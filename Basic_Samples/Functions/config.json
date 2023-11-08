@@ -1,5 +1,5 @@
 {
-    "DEPLOYMENT_NAME":"<Model Deployment Name>",
+    "DEPLOYMENT_NAME":"1111<Model Deployment Name>1111",
     "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
     "OPENAI_API_VERSION":"<OpenAI API Version>",
     
